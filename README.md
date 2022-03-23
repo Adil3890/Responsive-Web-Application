@@ -1,2 +1,2 @@
-# Muhammad-Adil-Naeem_S2020266029_responsive web Assignment 02
+# Responsive web-Appliaction
 first stattic responsive web layout
